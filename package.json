@@ -1,0 +1,12 @@
+{
+  "name": "trajectory-visualization",
+  "version": "1.0.0",
+  "description": "Візуалізація руху матеріальної точки",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
